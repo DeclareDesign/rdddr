@@ -1,5 +1,8 @@
 ^rdddr\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^REAMD\.md$
 ^data-raw$
-^tests/get_tests$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
+^\.github$
